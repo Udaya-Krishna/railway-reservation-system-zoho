@@ -40,7 +40,7 @@ Enter Preference:
 
 Do you want to book one more? (Y/N):
 
-Kiasiinfants below age of 5 should also be accepted the same way.
+Infants below age of 5 should also be accepted the same way.
 
 After entering the details of all the passengers in the group, it should print the
 
